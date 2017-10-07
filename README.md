@@ -1,4 +1,4 @@
-# healthcare
+# HEALTHCARE
 #A Text Classification Project.
 
 #Problem statement and Domain Knowledge:
