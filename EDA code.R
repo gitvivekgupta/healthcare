@@ -7,7 +7,7 @@ setwd("D:/data science/EDWISOR PROJECT 2 - TEXT MINING/Text Classification - Hea
 #check working directory
 getwd()
 
-
+#loading the libraries
 library(stringr)
 library(tm)
 library(wordcloud)
